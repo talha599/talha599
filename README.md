@@ -9,7 +9,7 @@
 
 - 🔭 I’m currently working on **Academic Project**
 
-- 🌱 I’m currently learning **Framework, Research paper writting .Net, Software Requirement Engineering**
+- 🌱 I’m currently learning **Framework, Research paper writing .Net, Software Requirement Engineering**
 
 - 💬 Ask me about **C#, C++, Java, C, html**
 
